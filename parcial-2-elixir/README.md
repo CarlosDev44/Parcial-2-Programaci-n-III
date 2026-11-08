@@ -63,8 +63,11 @@ Se obtienen las mismas cuatro respuestas, lo que comprueba que el servidor sigue
 
 ### 1. Herramientas y agentes
 
+Utilizamos ChatGpt para analizar el parcial, desmembrarlo y ver como seria el flujo de salida del codigo y Claude para ayudas e ideas de codificacion.
 
 ### 2. Caso decisivo
+
+
 
 
 ### 3. Idea diferente de la clase
