@@ -57,20 +57,3 @@ Segunda ejecución con el mismo servidor: sin cerrar la Terminal 1, volver a eje
     elixir cliente.exs
 
 Se obtienen las mismas cuatro respuestas, lo que comprueba que el servidor sigue atendiendo solicitudes.
-
-
-## Reflexión sobre el uso de inteligencia artificial
-
-### 1. Herramientas y agentes
-
-Utilizamos ChatGpt para analizar el parcial, desmembrarlo y ver como seria el flujo de salida del codigo y Claude para ayudas e ideas de codificacion.
-
-### 2. Caso decisivo
-
-
-
-
-### 3. Idea diferente de la clase
-
-
-### 4. Conclusiones
